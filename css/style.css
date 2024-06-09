@@ -1,0 +1,32 @@
+.resimlerinboyutu {
+    height: 800px;
+    width: auto;
+
+}
+.body {
+    padding-top: 50px;
+}
+ 
+.features {
+    background-color: #749388;
+}
+.ayrac{
+    border:none;
+    border-top:3px solid #082541 ;
+    max-width: 1500px;
+    margin: 25px;
+}
+.ourteam{
+    background-color:#ffffff;
+    
+    
+}
+.ekipCard>img:hover{
+    opacity:0.8;
+}
+.gallery{
+    background-color: rgb(255, 255, 255);
+}
+.figure:hover{
+    opacity: 0.7;
+}
